@@ -1,4 +1,5 @@
 # Polymorphism helps create a function of various forms/functionality
+# Polymorphism in different examples
 
 # In-built functions that show polymorphism
 print("Same function 'len' performs count on two different types(polymorphism)")
