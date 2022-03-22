@@ -19,5 +19,3 @@ current = link_list.head
 while(current): 
     print(current.data)
     current = current.next
-
-
