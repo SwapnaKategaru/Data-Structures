@@ -1,4 +1,5 @@
-class Node:                                # Node class for every element in linked list
+# Node class for every element in linked list
+class Node:                                
     def __init__(self, data):
         self.data = data
         self.next = None
